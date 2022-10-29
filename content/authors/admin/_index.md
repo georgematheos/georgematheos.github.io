@@ -21,23 +21,19 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Artificial Intelligence
+  - Probabilistic Programming
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+education:
+  courses:
+    - course: BA in Math and Computer Science
+      institution: UC Berkeley
+      year: In Progress
+    - course: Diploma
+      institution: Phillips Exeter Academy
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -77,6 +73,12 @@ social:
 highlight_name: true
 ---
 
-George Matheos foo bar.
+I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  My research focuses on probabilistic programming and well-founded AI.
+
+From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).  I'm currently applying for PhD programs.
+
+
+
+<!-- My current research focuses on developing new data-driven Monte Carlo algorithms for probabilistic inference in structured models of the world, and on understanding how the mammalian brain may implement algorithms like these.  I previously developed algorithms and a high-level probabilistic programming language that facilitate the implementation of custom inference algorithms for open-universe probabilistic programs. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
