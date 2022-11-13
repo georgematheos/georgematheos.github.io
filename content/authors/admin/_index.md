@@ -60,11 +60,9 @@ social:
     link: https://www.linkedin.com/in/george-matheos-429982160/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: "uploads/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ''
@@ -73,12 +71,6 @@ social:
 highlight_name: true
 ---
 
-I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  My research focuses on probabilistic programming and well-founded AI.
+I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.
 
-From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).  I'm currently applying for PhD programs.
-
-
-
-<!-- My current research focuses on developing new data-driven Monte Carlo algorithms for probabilistic inference in structured models of the world, and on understanding how the mammalian brain may implement algorithms like these.  I previously developed algorithms and a high-level probabilistic programming language that facilitate the implementation of custom inference algorithms for open-universe probabilistic programs. -->
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">

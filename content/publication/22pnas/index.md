@@ -1,15 +1,14 @@
 ---
-title: 'SMCP3: SMC with Probabilistic Program Proposals'
+title: 'Brain computation as fast spiking neural Monte Carlo inference in probabilistic programs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - alexlew
   - admin
-  - Matin Ghavamizadeh
-  - Nishad Gothoskar
-  - Stuart Russell
+  - andrewbolton
+  - McCoy Becker
+  - Cameron Freer
   - Vikash K. Mansinghka
 
 # Author notes (optional)
@@ -17,20 +16,21 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2023-01-01'
+date: '2022-01-01'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['0']
 
-publication: Under review for *AISTATS'23*
-publication_short: Under review at *AISTATS'23*
+publication: "Poster at 'From Neuroscience to
+Artificially Intelligent Systems' conference at the Cold Spring Harbor Laboratory, August 2022"
+publication_short: "Poster at [NAISys](https://meetings.cshl.edu/meetings.aspx?meet=NAISYS&year=22), at [CSHL](https://www.cshl.edu/)"
 
 abstract: ""
 

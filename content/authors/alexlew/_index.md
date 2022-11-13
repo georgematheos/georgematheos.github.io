@@ -53,7 +53,3 @@ organizations:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-<!-- George Matheos foo bar. -->
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
