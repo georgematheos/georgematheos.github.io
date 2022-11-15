@@ -29,8 +29,8 @@ date: '2022-01-01'
 publication_types: ['0']
 
 publication: "Poster at 'From Neuroscience to
-Artificially Intelligent Systems' conference at the Cold Spring Harbor Laboratory, August 2022"
-publication_short: "Poster at [NAISys](https://meetings.cshl.edu/meetings.aspx?meet=NAISYS&year=22), at [CSHL](https://www.cshl.edu/)"
+Artificially Intelligent Systems' conference at the Cold Spring Harbor Laboratory, August 2022.  Poster at 'Advances in the Quest to Understand Intelligence', MIT Center for Brains, Minds, and Machines & MIT Quest for Intelligence, Nov 4 2022"
+publication_short: "Poster at [NAISys](https://meetings.cshl.edu/meetings.aspx?meet=NAISYS&year=22), at [CSHL](https://www.cshl.edu/), Aug 2022.  Poster at [MIT Quest for Intelligence](https://cbmm.mit.edu/news-events/events/advances-quest-understand-intelligence), Nov 2022"
 
 abstract: ""
 
@@ -50,7 +50,7 @@ featured: true
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'uploads/MIT_Quest_2022.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
