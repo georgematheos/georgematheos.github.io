@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: George Matheos # Website name
-baseURL: 'https://georgematheos.github.io/' # Website URL
+baseURL: 'https://george.matheos.com/' # Website URL
 
 ############################
 ## LANGUAGE
