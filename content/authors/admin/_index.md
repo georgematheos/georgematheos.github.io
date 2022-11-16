@@ -30,10 +30,7 @@ education:
   courses:
     - course: BA in Math and Computer Science
       institution: UC Berkeley
-      year: In Progress
-    - course: Diploma
-      institution: Phillips Exeter Academy
-      year: 2018
+      year: Dec. 2022 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,6 +68,6 @@ social:
 highlight_name: true
 ---
 
-I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.
+I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
