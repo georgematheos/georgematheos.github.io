@@ -16,21 +16,21 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-01-01'
+date: '2022-30-30'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['0']
+publication_types: ['1']
 
 publication: "Poster at 'From Neuroscience to
-Artificially Intelligent Systems' conference at the Cold Spring Harbor Laboratory, August 2022.  Poster at 'Advances in the Quest to Understand Intelligence', MIT Center for Brains, Minds, and Machines & MIT Quest for Intelligence, Nov 4 2022"
-publication_short: "Poster at [NAISys](https://meetings.cshl.edu/meetings.aspx?meet=NAISYS&year=22), at [CSHL](https://www.cshl.edu/), Aug 2022.  Poster at [MIT Quest for Intelligence](https://cbmm.mit.edu/news-events/events/advances-quest-understand-intelligence), Nov 2022"
+Artificially Intelligent Systems' conference at the Cold Spring Harbor Laboratory, August 2022.  Poster at 'Advances in the Quest to Understand Intelligence', MIT Center for Brains, Minds, and Machines & MIT Quest for Intelligence, Nov 4 2022. Paper in preparation for submission to a top-tier interdisciplinary conference"
+publication_short: "Poster at [NAISys](https://meetings.cshl.edu/meetings.aspx?meet=NAISYS&year=22), at [CSHL](https://www.cshl.edu/), Aug 2022.  Poster at [MIT Quest for Intelligence](https://cbmm.mit.edu/news-events/events/advances-quest-understand-intelligence), Nov 2022.  Paper in preparation for submission to a top-tier interdisciplinary conference"
 
 abstract: ""
 
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'uploads/SNMC_preprint.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: 'uploads/MIT_Quest_2022.pdf'
