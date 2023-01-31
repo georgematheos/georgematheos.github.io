@@ -50,7 +50,7 @@ featured: true
 url_pdf: 'https://openreview.net/pdf?id=8Itm8dQnJRc'
 url_code: 'https://github.com/georgematheos/GenWorldModels.jl'
 url_dataset: ''
-url_poster: ''
+url_poster: 'uploads/aabi20_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
