@@ -7,6 +7,7 @@ title: 'SMCP3: SMC with Probabilistic Program Proposals'
 authors:
   - alexlew
   - admin
+  - Tan Zhi-Xuan
   - Matin Ghavamizadeh
   - Nishad Gothoskar
   - Stuart Russell
@@ -27,12 +28,12 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
-publication: To appear at the International Conference on Artificial Intelligence and Statistics, 2023
-publication_short: To appear at AISTATS 2023
+publication: The International Conference on Artificial Intelligence and Statistics, 2023
+publication_short: "*AISTATS, 2023*"
 
-abstract: ""
+abstract: "This paper introduces SMCP3, a method for automatically implementing custom sequential Monte Carlo samplers for inference in probabilistic programs. Unlike particle filters and resample-move SMC (Gilks and Berzuini, 2001), SMCP3 algorithms can improve the quality of samples and weights using pairs of Markov proposal kernels that are also specified by probabilistic programs. Unlike Del Moral et al. (2006b), these proposals can themselves be complex probabilistic computations that generate auxiliary variables, apply deterministic transformations, and lack tractable marginal densities. This paper also contributes an efficient implementation in Gen that eliminates the need to manually derive incremental importance weights. SMCP3 thus simultaneously expands the design space that can be explored by SMC practitioners and reduces the implementation effort. SMCP3 is illustrated using applications to 3D object tracking, state-space modeling, and data clustering, showing that SMCP3 methods can simultaneously improve the quality and reduce the cost of marginal likelihood estimation and posterior inference."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -47,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/SMCP3_preprint.pdf'
+url_pdf: 'uploads/SMCP3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

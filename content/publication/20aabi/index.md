@@ -29,8 +29,8 @@ date: '2020-12-31'
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-publication: In *Advanced in Approximate Bayesian Inference 2020*
-publication_short: In *AABI'20*
+publication: Advances in Approximate Bayesian Inference, 2020
+publication_short: "*AABI, 2020*"
 
 abstract: "Open-universe probabilistic models enable Bayesian inference about how many objects underlie data, and how they are related. Effective inference in OUPMs remains a challenge, however, often requiring the use of custom, trans-dimensional MCMC kernels, based on heuristics, deep learning, or domain knowledge, that can be difficult to derive and to implement correctly. This paper adapts the recently introduced involutive MCMC framework to the open-universe setting, and shows how error-prone aspects of kernel design and implementation (e.g., the computation of valid accept/reject probabilities) can be automated, using techniques from probabilistic and differentiable programming. The result is an intuitive design space for MCMC kernels for OUPMs: users write programs that propose incremental changes to possible worlds, creating, deleting, or modifying objects according to arbitrary application-specific logic, and their proposals are automatically converted into stationary MCMC kernels. We demonstrate in preliminary experiments that data-driven involutive MCMC kernels outperform generic probabilistic programming language inference, as well as generic birth/death reversible-jump kernels without application-specific logic."
 
