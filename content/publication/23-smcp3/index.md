@@ -49,13 +49,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'uploads/SMCP3.pdf'
-url_code: ''
+url_code: 'https://github.com/probcomp/GenSMCP3.jl'
 url_dataset: ''
-url_poster: ''
+url_poster: 'uploads/SMCP3Poster-aistats2023.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=Pn4_7nzGhF8&t=15s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

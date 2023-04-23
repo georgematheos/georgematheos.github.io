@@ -28,9 +28,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science (program begins September 2023)
+      institution: Massachusetts Institute of Technology
+      # year: Enrolling in Fall 2023
     - course: BA in Math and Computer Science
-      institution: UC Berkeley
-      year: Dec. 2022 (Expected)
+      institution: University of California, Berkeley
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +71,6 @@ social:
 highlight_name: true
 ---
 
-I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf).
+I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  Next fall I will begin at MIT as a PhD student in computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
