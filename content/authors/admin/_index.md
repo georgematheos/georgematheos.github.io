@@ -31,7 +31,7 @@ education:
     - course: PhD in Computer Science (program begins September 2023)
       institution: Massachusetts Institute of Technology
       # year: Enrolling in Fall 2023
-    - course: BA in Math and Computer Science
+    - course: BA in Mathematics and Computer Science
       institution: University of California, Berkeley
       year: 2023
 
@@ -71,6 +71,6 @@ social:
 highlight_name: true
 ---
 
-I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  Next fall I will begin at MIT as a PhD student in computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf).
+I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I'm graduating from Berkeley in May, and in September I will begin as a PhD student at MIT, in computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
