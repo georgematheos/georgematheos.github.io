@@ -10,12 +10,12 @@ last_name: Matheos
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate AI Researcher
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UC Berkeley
-    url: https://berkeley.edu/
+  - name: MIT
+    url: https://mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -23,12 +23,13 @@ organizations:
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Cognitive AI
   - Probabilistic Programming
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science (program begins September 2023)
+    - course: PhD in Computer Science (in progress)
       institution: Massachusetts Institute of Technology
       # year: Enrolling in Fall 2023
     - course: BA in Mathematics and Computer Science
@@ -71,6 +72,16 @@ social:
 highlight_name: true
 ---
 
-I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I'm graduating from Berkeley in May, and in September I will begin as a PhD student at MIT, in computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf).
+I'm a 1st year PhD student at MIT studying computer science.  My research is advised by [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/) and [Josh Tenenbaum](https://cocosci.mit.edu/josh).
+
+I recently completed my undergraduate studies in math and computer science at UC Berkeley.  At Berkeley, my research was advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/).
+
+During the year of 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).
+
+For more information, see [my CV](uploads/cv.pdf).
+
+
+
+<!-- I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I'm graduating from Berkeley in May, and in September I will begin as a PhD student at MIT, in computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf). -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
