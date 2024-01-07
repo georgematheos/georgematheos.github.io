@@ -18,7 +18,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: georgematheos AT berkeley DOT edu
+  email: gmatheos AT mit DOT edu
 
 design:
   columns: '2'

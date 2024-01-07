@@ -72,7 +72,7 @@ social:
 highlight_name: true
 ---
 
-I'm a 1st year PhD student at MIT studying computer science.  My research is advised by [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).
+I'm a 1st year PhD student at MIT studying computer science.  My research is advised by [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/), [Josh Tenenbaum](https://cocosci.mit.edu/josh), and [Leslie Kaelbling](https://people.csail.mit.edu/lpk/).
  <!-- and [Josh Tenenbaum](https://cocosci.mit.edu/josh) -->
 
 I recently completed my undergraduate studies in math and computer science at UC Berkeley.  At Berkeley, my research was advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/).
@@ -80,8 +80,6 @@ I recently completed my undergraduate studies in math and computer science at UC
 During the year of 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).
 
 For more information, see [my CV](uploads/cv.pdf).
-
-
 
 <!-- I'm a 4th year undergraduate at UC Berkeley studying math and computer science.  I'm graduating from Berkeley in May, and in September I will begin as a PhD student at MIT, in computer science.  I do artificial intelligence research advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/).  From 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).   My research focuses on probabilistic programming and well-founded AI.  For more information, see [my CV](uploads/cv.pdf). -->
 
