@@ -23,8 +23,9 @@ organizations:
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Cognitive AI
   - Probabilistic Programming
+  - Cognitive AI
+  - Robotics
 
 # Education to show in About widget
 education:
@@ -77,7 +78,7 @@ I'm a 1st year PhD student at MIT studying computer science.  My research is adv
 
 I recently completed my undergraduate studies in math and computer science at UC Berkeley.  At Berkeley, my research was advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/).
 
-During the year of 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/).
+During the year of 2020-2021, I worked full-time as a researcher at the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/), advised by [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/) and [Alex Lew](http://alexlew.net/).
 
 For more information, see [my CV](uploads/cv.pdf).
 
